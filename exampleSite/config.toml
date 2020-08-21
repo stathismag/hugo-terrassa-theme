@@ -5,7 +5,7 @@ googleAnalytics = ""
 defaultContentLanguage = "en"
 paginate = 3
 
-theme = "hugo-terrassa-theme"
+theme = "terrassa"
 themesDir = "../.." # Not necessary on production sites
 
 [params]
