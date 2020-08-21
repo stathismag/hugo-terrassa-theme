@@ -1,3 +1,8 @@
+$ mkdir themes
+$ cd themes
+$ git clone https://github.com/danielkvist/hugo-terrassa-theme.git terrassa
+
+
 baseurl = "/"
 title = "Terrassa"
 author = "Daniel Zaragoza (Danielkvist)"
